@@ -27,8 +27,15 @@ function App() {
               <div className="flex size-full absolute z-40 top-10   justify-center   filter  brightness-100  ">
                 <img src={sung}></img>
               </div>
-              <div className="bg-black absolute z-30 flex justify-center   bottom-1/20 left-60 w-90">
-                <img src={X} className="absolute"></img>
+              <div className="bg-black  z-30 absolute pb-40 bottom-1/10 left-60 w-90">
+                <h1 className="text-3xl flex justify-center  font-bebas text-white">Wanna  be </h1>
+              </div>
+              <div className="absolute w-70 z-40  bottom-15 left-50">
+
+              <img src={X} className=""></img>
+              </div>
+              <div>
+              <img src={Xsymbol} className="absolute w-30 z-40  bottom-30 left-96"></img>
               </div>
      <div className="absolute w-full h-screen z-50">
 
